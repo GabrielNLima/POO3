@@ -1,4 +1,4 @@
-import Clients from "./clients/clients";
+import Clients from "./clients/Clients";
 import Company from "./transport/Company";
 import InDriveTransport from "./transport/InDriveTransport";
 import NineNineTransport from "./transport/NineNineTransport";
